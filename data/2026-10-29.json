@@ -1,0 +1,237 @@
+{
+  "dataset": "GPU Price Index",
+  "license": "CC BY 4.0",
+  "source": "https://rentgpu.link",
+  "generated_at": "2026-10-29 01:31:51",
+  "date_to": "2026-10-29",
+  "currency": "CNY per GPU-hour",
+  "coverage": {
+    "gpu_models": 22,
+    "platforms_total": 26,
+    "platforms_with_live_data": 23,
+    "seller_rows_today": 81
+  },
+  "cheapest_by_model": [
+    {
+      "gpu": "RTX 3090",
+      "price_cny_per_hour": 0.8,
+      "platform": "恒源云",
+      "min_30d": 0.72,
+      "max_30d": 0.8,
+      "avg_30d": 0.75,
+      "change_30d_pct": 11.1,
+      "sellers_today": 9
+    },
+    {
+      "gpu": "RTX 4090D 24GB",
+      "price_cny_per_hour": 1.14,
+      "platform": "算家云",
+      "min_30d": 1.14,
+      "max_30d": 1.14,
+      "avg_30d": 1.14,
+      "change_30d_pct": 0.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "RTX 4090",
+      "price_cny_per_hour": 1.24,
+      "platform": "算家云",
+      "min_30d": 1.24,
+      "max_30d": 1.24,
+      "avg_30d": 1.24,
+      "change_30d_pct": 0.0,
+      "sellers_today": 9
+    },
+    {
+      "gpu": "T4 16GB",
+      "price_cny_per_hour": 1.35,
+      "platform": "MatPool",
+      "min_30d": 1.35,
+      "max_30d": 1.35,
+      "avg_30d": 1.35,
+      "change_30d_pct": 0.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "A6000 48GB",
+      "price_cny_per_hour": 2.2,
+      "platform": "恒源云",
+      "min_30d": 2.2,
+      "max_30d": 2.85,
+      "avg_30d": 2.32,
+      "change_30d_pct": 0.0,
+      "sellers_today": 6
+    },
+    {
+      "gpu": "A40 48GB",
+      "price_cny_per_hour": 2.52,
+      "platform": "RunPod",
+      "min_30d": 2.52,
+      "max_30d": 2.52,
+      "avg_30d": 2.52,
+      "change_30d_pct": 0.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "RTX 5090",
+      "price_cny_per_hour": 2.68,
+      "platform": "算家云",
+      "min_30d": 2.09,
+      "max_30d": 2.68,
+      "avg_30d": 2.61,
+      "change_30d_pct": 3.1,
+      "sellers_today": 7
+    },
+    {
+      "gpu": "L4 24GB",
+      "price_cny_per_hour": 3.17,
+      "platform": "JarvisLabs",
+      "min_30d": 3.17,
+      "max_30d": 3.17,
+      "avg_30d": 3.17,
+      "change_30d_pct": 0.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "RTX 4000 Ada 20GB",
+      "price_cny_per_hour": 3.74,
+      "platform": "Linode",
+      "min_30d": 3.74,
+      "max_30d": 3.74,
+      "avg_30d": 3.74,
+      "change_30d_pct": 0.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "A800 80GB",
+      "price_cny_per_hour": 5.15,
+      "platform": "晨涧云",
+      "min_30d": 5.15,
+      "max_30d": 5.15,
+      "avg_30d": 5.15,
+      "change_30d_pct": 0.0,
+      "sellers_today": 3
+    },
+    {
+      "gpu": "RTX 6000 Ada 48GB",
+      "price_cny_per_hour": 5.28,
+      "platform": "Verda",
+      "min_30d": 4.6,
+      "max_30d": 5.28,
+      "avg_30d": 4.96,
+      "change_30d_pct": 14.8,
+      "sellers_today": 2
+    },
+    {
+      "gpu": "A100 80GB",
+      "price_cny_per_hour": 5.47,
+      "platform": "Paperspace",
+      "min_30d": 5.47,
+      "max_30d": 9.8,
+      "avg_30d": 6.84,
+      "change_30d_pct": -17.9,
+      "sellers_today": 11
+    },
+    {
+      "gpu": "L40 48GB",
+      "price_cny_per_hour": 5.69,
+      "platform": "雷霆云",
+      "min_30d": 5.69,
+      "max_30d": 5.69,
+      "avg_30d": 5.69,
+      "change_30d_pct": 0.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "V100 16GB",
+      "price_cny_per_hour": 5.69,
+      "platform": "Lambda Labs",
+      "min_30d": 0.77,
+      "max_30d": 5.69,
+      "avg_30d": 3.67,
+      "change_30d_pct": 639.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "H20 96GB",
+      "price_cny_per_hour": 7.5,
+      "platform": "趋动云",
+      "min_30d": 7.5,
+      "max_30d": 7.5,
+      "avg_30d": 7.5,
+      "change_30d_pct": 0.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "H100 80GB",
+      "price_cny_per_hour": 8.28,
+      "platform": "Paperspace",
+      "min_30d": 8.28,
+      "max_30d": 16.34,
+      "avg_30d": 13.01,
+      "change_30d_pct": -41.8,
+      "sellers_today": 9
+    },
+    {
+      "gpu": "L40S 48GB",
+      "price_cny_per_hour": 9.91,
+      "platform": "Gcore",
+      "min_30d": 9.91,
+      "max_30d": 9.91,
+      "avg_30d": 9.91,
+      "change_30d_pct": 0.0,
+      "sellers_today": 4
+    },
+    {
+      "gpu": "RTX 6000 24GB",
+      "price_cny_per_hour": 10.8,
+      "platform": "Linode",
+      "min_30d": 10.8,
+      "max_30d": 10.8,
+      "avg_30d": 10.8,
+      "change_30d_pct": 0.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "RTX PRO 6000 96GB",
+      "price_cny_per_hour": 12.96,
+      "platform": "Nebius",
+      "min_30d": 12.96,
+      "max_30d": 12.96,
+      "avg_30d": 12.96,
+      "change_30d_pct": 0.0,
+      "sellers_today": 3
+    },
+    {
+      "gpu": "H200 141GB",
+      "price_cny_per_hour": 24.8,
+      "platform": "Gcore",
+      "min_30d": 24.8,
+      "max_30d": 24.8,
+      "avg_30d": 24.8,
+      "change_30d_pct": 0.0,
+      "sellers_today": 5
+    },
+    {
+      "gpu": "MI300X 192GB",
+      "price_cny_per_hour": 24.84,
+      "platform": "Crusoe",
+      "min_30d": 3.6,
+      "max_30d": 24.84,
+      "avg_30d": 7.35,
+      "change_30d_pct": 590.0,
+      "sellers_today": 1
+    },
+    {
+      "gpu": "B200 180GB",
+      "price_cny_per_hour": 43.2,
+      "platform": "Hyperstack",
+      "min_30d": 43.2,
+      "max_30d": 43.2,
+      "avg_30d": 43.2,
+      "change_30d_pct": 0.0,
+      "sellers_today": 3
+    }
+  ],
+  "note": "平台公开页面价格，随时波动，下单前请以平台下单页为准。"
+}
