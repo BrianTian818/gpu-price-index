@@ -1,7 +1,7 @@
 # GPU Price Index — 每日 GPU 租用价格快照
 
 一个开放的、机器可读的 GPU 算力租用价格数据集，每天更新。
-覆盖 **23 家平台 / 22 种 GPU**，其中中国大陆平台 11 家。
+覆盖 **26 家平台 / 22 种 GPU**（其中 23 家已实现自动抓取），中国大陆平台 11 家。
 数据由 [rentgpu.link](https://rentgpu.link) 抓取并发布，许可 **CC BY 4.0**，注明来源即可自由使用。
 
 - 最新快照：`data/latest.json`、`data/latest.csv`
@@ -95,3 +95,9 @@ BibTeX：
 
 数据 CC BY 4.0，来源 rentgpu.link。我们不接受付费排名，比价表一律按价格升序。
 纠错请提 issue 或写信 hi@rentgpu.link。
+
+## 镜像（同一份数据，三处托管）
+
+- GitHub（本仓库）：https://github.com/BrianTian818/gpu-price-index
+- HuggingFace：https://huggingface.co/datasets/brian8808/gpu-price-index
+- Kaggle：https://www.kaggle.com/datasets/briantian/gpu-price-index
