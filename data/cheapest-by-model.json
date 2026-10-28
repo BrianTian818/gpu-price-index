@@ -1,0 +1,134 @@
+{
+  "RTX 3090": {
+    "price_cny_per_hour": 0.8,
+    "platform": "恒源云",
+    "min_30d": 0.72,
+    "max_30d": 0.8
+  },
+  "RTX 4090D 24GB": {
+    "price_cny_per_hour": 1.14,
+    "platform": "算家云",
+    "min_30d": 1.14,
+    "max_30d": 1.14
+  },
+  "RTX 4090": {
+    "price_cny_per_hour": 1.24,
+    "platform": "算家云",
+    "min_30d": 1.24,
+    "max_30d": 1.24
+  },
+  "T4 16GB": {
+    "price_cny_per_hour": 1.35,
+    "platform": "MatPool",
+    "min_30d": 1.35,
+    "max_30d": 1.35
+  },
+  "A6000 48GB": {
+    "price_cny_per_hour": 2.2,
+    "platform": "恒源云",
+    "min_30d": 2.2,
+    "max_30d": 2.85
+  },
+  "A40 48GB": {
+    "price_cny_per_hour": 2.52,
+    "platform": "RunPod",
+    "min_30d": 2.52,
+    "max_30d": 2.52
+  },
+  "RTX 5090": {
+    "price_cny_per_hour": 2.68,
+    "platform": "算家云",
+    "min_30d": 2.09,
+    "max_30d": 2.68
+  },
+  "L4 24GB": {
+    "price_cny_per_hour": 3.17,
+    "platform": "JarvisLabs",
+    "min_30d": 3.17,
+    "max_30d": 3.17
+  },
+  "RTX 4000 Ada 20GB": {
+    "price_cny_per_hour": 3.74,
+    "platform": "Linode",
+    "min_30d": 3.74,
+    "max_30d": 3.74
+  },
+  "A800 80GB": {
+    "price_cny_per_hour": 5.15,
+    "platform": "晨涧云",
+    "min_30d": 5.15,
+    "max_30d": 5.15
+  },
+  "RTX 6000 Ada 48GB": {
+    "price_cny_per_hour": 5.28,
+    "platform": "Verda",
+    "min_30d": 4.6,
+    "max_30d": 5.28
+  },
+  "A100 80GB": {
+    "price_cny_per_hour": 5.47,
+    "platform": "Paperspace",
+    "min_30d": 5.47,
+    "max_30d": 9.8
+  },
+  "L40 48GB": {
+    "price_cny_per_hour": 5.69,
+    "platform": "雷霆云",
+    "min_30d": 5.69,
+    "max_30d": 5.69
+  },
+  "V100 16GB": {
+    "price_cny_per_hour": 5.69,
+    "platform": "Lambda Labs",
+    "min_30d": 0.77,
+    "max_30d": 5.69
+  },
+  "H20 96GB": {
+    "price_cny_per_hour": 7.5,
+    "platform": "趋动云",
+    "min_30d": 7.5,
+    "max_30d": 7.5
+  },
+  "H100 80GB": {
+    "price_cny_per_hour": 8.28,
+    "platform": "Paperspace",
+    "min_30d": 8.28,
+    "max_30d": 16.34
+  },
+  "L40S 48GB": {
+    "price_cny_per_hour": 9.91,
+    "platform": "Gcore",
+    "min_30d": 9.91,
+    "max_30d": 9.91
+  },
+  "RTX 6000 24GB": {
+    "price_cny_per_hour": 10.8,
+    "platform": "Linode",
+    "min_30d": 10.8,
+    "max_30d": 10.8
+  },
+  "RTX PRO 6000 96GB": {
+    "price_cny_per_hour": 12.96,
+    "platform": "Nebius",
+    "min_30d": 12.96,
+    "max_30d": 12.96
+  },
+  "H200 141GB": {
+    "price_cny_per_hour": 24.8,
+    "platform": "Gcore",
+    "min_30d": 24.8,
+    "max_30d": 24.8
+  },
+  "MI300X 192GB": {
+    "price_cny_per_hour": 24.84,
+    "platform": "Crusoe",
+    "min_30d": 3.6,
+    "max_30d": 24.84
+  },
+  "B200 180GB": {
+    "price_cny_per_hour": 43.2,
+    "platform": "Hyperstack",
+    "min_30d": 43.2,
+    "max_30d": 43.2
+  }
+}
