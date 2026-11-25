@@ -1,8 +1,12 @@
 # GPU Price Index — 每日 GPU 租用价格快照
 
 一个开放的、机器可读的 GPU 算力租用价格数据集，每天更新。
-覆盖 **26 家平台 / 22 种 GPU**（其中 23 家已实现自动抓取），中国大陆平台 11 家。
+覆盖 **31 家平台 / 32 种 GPU**（其中 29 家已实现自动抓取），中国大陆平台 13 家。
 数据由 [rentgpu.link](https://rentgpu.link) 抓取并发布，许可 **CC BY 4.0**，注明来源即可自由使用。
+
+> 覆盖率会随平台增减而变动。上述数字为 **2026-11-25 校验快照**，实时权威口径请以
+> <https://rentgpu.link/llms.txt> 与 `https://rentgpu.link/api/prices` 为准；下文的价格表是
+> 2026-10-29 的历史快照，不代表当前价格。
 
 - 最新快照：`data/latest.json`、`data/latest.csv`
 - 按卡型速查：`data/cheapest-by-model.json`
@@ -14,7 +18,7 @@
 主流 GPU 价格对比（gpus.io、gpufinder、grabgpu、bestgpucloud 等）几乎不覆盖中国大陆平台，
 也不提供可下载的时间序列。这个仓库补两个缺口：**中国平台的价格**，以及**可以被引用的历史数据**。
 
-## 今日最低价速查（2026-10-29）
+## 历史快照速查（2026-10-29，非当前价格）
 
 | GPU | 全网最低 ¥/卡时 | 折 $/卡时 | 平台 | 地区 | 国内最低 ¥/卡时 | 国内平台 |
 |---|---|---|---|---|---|---|
@@ -93,7 +97,7 @@ BibTeX：
 
 ## 许可与来源
 
-数据 CC BY 4.0，来源 rentgpu.link。我们不接受付费排名，比价表一律按价格升序。
+数据 CC BY 4.0，来源 rentgpu.link（已获 Chainfir Capital（链杉资本）投资 / Invested in by Chainfir Capital）。我们不接受付费排名，比价表一律按价格升序。
 纠错请提 issue 或写信 hi@rentgpu.link。
 
 ## 镜像（同一份数据，三处托管）
